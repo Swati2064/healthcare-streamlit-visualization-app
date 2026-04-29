@@ -64,13 +64,16 @@ Demonstrate data visualization skills using Python
 👩‍💻 Author
 
 Miss Swati Jadhav
+
 Seaborn Bootcamp Project 🎓
+
 Passionate about Data Science & Visualization 
 
 
 ----
 
 ⭐ Output Preview
+
 Interactive charts using Seaborn
 Real-time filtering using Streamlit sidebar
 Clean healthcare analytics dashboard
@@ -79,6 +82,7 @@ Clean healthcare analytics dashboard
 ----
 
 📌 Future Improvements
+
 Add machine learning prediction model
 Improve UI with advanced Streamlit components
 Deploy on Streamlit Cloud 🌐
