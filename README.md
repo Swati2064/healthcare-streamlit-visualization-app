@@ -58,6 +58,7 @@ Analyze healthcare data visually
 Identify patterns related to heart disease
 Build an interactive and user-friendly dashboard
 Demonstrate data visualization skills using Python
+
 ------
 
 👩‍💻 Author
@@ -65,14 +66,17 @@ Demonstrate data visualization skills using Python
 Miss Swati Jadhav
 Seaborn Bootcamp Project 🎓
 Passionate about Data Science & Visualization 
+
+
 ----
 
 ⭐ Output Preview
 Interactive charts using Seaborn
 Real-time filtering using Streamlit sidebar
 Clean healthcare analytics dashboard
-----
 
+
+----
 
 📌 Future Improvements
 Add machine learning prediction model
